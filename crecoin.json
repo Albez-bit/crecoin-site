@@ -1,11 +1,11 @@
 {
   "name": "CRECOIN",
   "symbol": "CREC",
-  "description": "La memecoin ufficiale di Cremona",
-  "image": "https://raw.githubusercontent.com/crectoken/crecoin-site/main/branding/crecoin-logo.png",
-  "external_url": "https://crecoin.github.io",
+  "description": "La memecoin di Cremona",
+  "image": "https://github.com/Albez-bit/crecoin-site/blob/main/crecoinlogo.png",
+  "external_url": "https://albez-bit.github.io/crecoin-site/",
   "extensions": {
-    "twitter": "https://twitter.com/crectoken",
-    "telegram": "https://t.me/crectoken"
+    "twitter": "https://x.com/CrecToken",
+    "telegram": "https://t.me/Wo_MIfV7zoQ3YmY8"
   }
 }
