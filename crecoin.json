@@ -1,10 +1,10 @@
 {
   "name": "CRECOIN",
   "symbol": "CREC",
-  "description": "La prima memecoin di Cremona, ispirata al Torrazzo. 100% community driven!",
-  "image": "https://raw.githubusercontent.com/crectoken/branding/main/crecoin-logo.png",
+  "description": "La memecoin ufficiale di Cremona",
+  "image": "https://raw.githubusercontent.com/crectoken/crecoin-site/main/branding/crecoin-logo.png",
+  "external_url": "https://crecoin.github.io",
   "extensions": {
-    "website": "https://crecoin.github.io",
     "twitter": "https://twitter.com/crectoken",
     "telegram": "https://t.me/crectoken"
   }
